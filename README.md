@@ -8,8 +8,8 @@ Link to the Medium Article - [here](https://sayand031999.medium.com/implementing
 
 ## Prerequisites 
 You need to have the following installed
-- Java 
-- Git
+- [Java](https://www.java.com/en/download/) 
+- [Git](https://git-scm.com/downloads)
 
 If you want to download the source code, follow the below steps :- 
 
